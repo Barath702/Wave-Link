@@ -6,6 +6,24 @@ A fully native Flutter Android application that converts the WaveLink web app in
 
 WaveLink Flutter enables real-time audio streaming between devices on the same local network without requiring internet connectivity. This is a pixel-perfect recreation of the original web application with native performance.
 
+3. **SCREENSHOTS SECTION**
+
+Add this EXACTLY:
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="30%" />
+  <img src="screenshots/2.jpg" width="30%" />
+  <img src="screenshots/3.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/4.jpg" width="30%" />
+  <img src="screenshots/5.jpg" width="30%" />
+  <img src="screenshots/6.jpg" width="30%" />
+</p>
+
 ## ✨ Features
 
 ### 🎨 UI/UX
